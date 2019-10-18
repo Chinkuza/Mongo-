@@ -11,7 +11,7 @@ The challenges for new endpoints for lifesports app deployed to heroku
    3.use `npm start` in terminal to launch
    use `npm start` once downladed in terminl
 
-##built With
+## Built With
 
 - REACT.js
 - Mongo
