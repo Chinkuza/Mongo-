@@ -72,3 +72,16 @@ GET /users/ 304 - - 21.212 ms
 GET /exercises/5da9d1432c4ec2c9c7601332 304 - - 20.287 ms
 POST /exercises/update/5da9d1432c4ec2c9c7601332 - - - - ms
 GET /exercises/ 200 1073 - 3.049 ms
+GET /exercises/ - - - - ms
+GET /users/ - - - - ms
+POST /users/add - - - - ms
+GET /users/ - - - - ms
+GET /exercises/ - - - - ms
+GET /users/ - - - - ms
+GET /users/ - - - - ms
+GET /users/ - - - - ms
+GET /users/ 200 2 - 30.630 ms
+POST /users/add 200 139 - 34.707 ms
+GET /users/ 200 141 - 226.440 ms
+POST /exercises/add - - - - ms
+GET /exercises/ 200 215 - 30.379 ms
